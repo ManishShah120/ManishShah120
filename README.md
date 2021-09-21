@@ -60,9 +60,10 @@ An Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field
 </details>
 
 ### Recent Articles 📑
-- [**An analysis of Dehing Patkai Wildlife Sanctuary on GEE**](https://www.bridgeconnect.biz/post/dehing-patkai-amazon-of-the-east)(**Platform:** <i>BridgeConnectBiz</i>)
-- [**An Analysis of Forest Area Change in India and its NE-Region on Google Earth Engine**](https://www.bridgeconnect.biz/post/an-analysis-of-forest-area-change-in-india-and-its-ne-region-on-google-earth-engine)(**Platform:** <i>BridgeConnectBiz</i>)
-- [**Exploratory Data Analysis on Google Play Store Apps**](https://blog.jovian.ai/exploratory-data-analysis-on-google-play-store-apps-f1cab4d2f395)(**Publication:** <i>jovian.ai</i>)
-- [**Image Classification using Logistic Regression in PyTorch**](https://medium.com/nerd-for-tech/image-classification-using-logistic-regression-in-pytorch-built-ins-5529b195766f)(**Publication:** <i>nerd-for-tech</i>)
-- [**Can Computers Understand Emotions?**](https://medium.com/jovianml/can-computers-understand-our-emotions-c296ddf5f23f)(**Publication:** <i>jovian.ml</i>)
-- [**How to classify everyday images using Machine Learning?**](https://medium.com/@ManishShah120/how-to-classify-everyday-images-using-machine-learning-7dfbb2d913a2)(**Publication:** <i>nerd-for-tech</i>)
+- [**OpenWISP REST API: GSoC’21 Project Report**](https://manishshah120.medium.com/openwisp-rest-api-gsoc21-project-report-f2c4e0a22673)
+- [**An analysis of Dehing Patkai Wildlife Sanctuary on GEE**](https://www.bridgeconnect.biz/post/dehing-patkai-amazon-of-the-east)
+- [**An Analysis of Forest Area Change in India and its NE-Region on Google Earth Engine**](https://www.bridgeconnect.biz/post/an-analysis-of-forest-area-change-in-india-and-its-ne-region-on-google-earth-engine)
+- [**Exploratory Data Analysis on Google Play Store Apps**](https://blog.jovian.ai/exploratory-data-analysis-on-google-play-store-apps-f1cab4d2f395)
+- [**Image Classification using Logistic Regression in PyTorch**](https://medium.com/nerd-for-tech/image-classification-using-logistic-regression-in-pytorch-built-ins-5529b195766f)
+- [**Can Computers Understand Emotions?**](https://medium.com/jovianml/can-computers-understand-our-emotions-c296ddf5f23f)
+- [**How to classify everyday images using Machine Learning?**](https://medium.com/@ManishShah120/how-to-classify-everyday-images-using-machine-learning-7dfbb2d913a2)
