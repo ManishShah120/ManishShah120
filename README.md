@@ -22,7 +22,7 @@
 ## Me 👨‍💻 
 An Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is Networking, Web Development, and DevOps. Looking for an organization where I can utilize the knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and softwares. When I am not coding, I _BLOG_
 ### Projects 🖤
-<p align="right">
+<p align="center">
   <img width="40%" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif"/>
 </p>
 
